@@ -2,7 +2,7 @@
 
 A **ReactJS-based Resume Generator** designed for ease and speed. Tailor your resume to your needs in just a few minutes with our live editor!
 
-[Visit Now](https://resumeforgepro.vercel.app) 🚀
+[Visit Now](https://resume-forge-omega.vercel.app/) 🚀
 
 ---
 
